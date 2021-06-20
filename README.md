@@ -1,7 +1,7 @@
 # excel_challenge
 
 1.	Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
-    a. There are more Kickstarter campaigns created for Theater and plays than for any other category or subcategory.
+     <br>a. There are more Kickstarter campaigns created for Theater and plays than for any other category or subcategory.
     b. Food and game Kickstarter campaigns have failed more often than have seen success.
     c. December may be a month to avoid launching a new campaign on Kickstarter. From 2009 to 2017, Kickstarter campaigns failed more often in Dec on average. 
 
