@@ -1,4 +1,4 @@
-# excel-challenge
+# kickstarter-analysis
 
 ## Description
 In this project, I organized and analyzed a database of 4,000 past Kickstarter projects to evaluate the number of backers of successful and unsuccessful campaigns. Results were analyzed within Excel using pivot tables and statistical analysis.
