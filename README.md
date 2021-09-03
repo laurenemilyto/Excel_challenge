@@ -1,7 +1,7 @@
 # excel-challenge
 
 ## Description
-Organized and analyzed a database of 4,000 past Kickstarter projects to evaluate the number of backers of successful and unsuccessful campaigns. Results were analyzed within Excel using pivot tables and statistical analysis. 
+In this project, I organized and analyzed a database of 4,000 past Kickstarter projects to evaluate the number of backers of successful and unsuccessful campaigns. Results were analyzed within Excel using pivot tables and statistical analysis.
 
 #### Insights:
   * More Kickstarter campaigns are created for Theater and Plays than for any other category or subcategory.
